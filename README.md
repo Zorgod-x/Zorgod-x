@@ -1,16 +1,26 @@
-## Hi there 👋
+# Nikolas Fedorchak
 
-<!--
-**Zorgod-x/Zorgod-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support / Customer Support Candidate** | CompTIA Security+ & Linux+
 
-Here are some ideas to get you started:
+I am building practical documentation and troubleshooting resources while targeting Level 1 Technical Support and Customer Support roles. My focus is clear communication, structured problem-solving, and creating materials that help others resolve issues faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- IT Support Knowledge Base (Windows & Network troubleshooting guides with flowcharts)
+
+## Key Certifications
+- CompTIA Security+
+- CompTIA Linux+
+- Splunk Core Certified User
+- Advanced RPAS Pilot Certificate (Transport Canada)
+
+## Portfolio Projects
+- [IT Support Knowledge Base](https://github.com/Zorgod-x/tech-support-wiki) — Self-service guides for common Level 1 issues
+- [Automated Backup Script (Bash)](https://github.com/Zorgod-x/backup_script) — rsync automation with documentation
+- [Network Traffic Analysis](https://github.com/Zorgod-x/PCAP-Analysis) — Wireshark & Splunk work
+
+## Links
+- Portfolio: https://zorgod-x.github.io/portfolio/
+- Email: nikofedor5@gmail.com
+- Location:  Montreal QC
+
+Open to Level 1 Technical Support and Customer Support opportunities.
